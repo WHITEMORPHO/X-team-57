@@ -7,11 +7,15 @@
 
 2. Answer these questions
    * What are the GitHub usernames and names of your team members?
-       * GitHub username 1: Nick Fritsch      name 1: kingfritsch
-       * GitHub username 2: WHITEMORPHO      name 2: Kaidong Lin
-       * GitHub username 3: Luke Lsutton      name 3: lsutton2
-       * GitHub username 4: shifanzhou      name 4: Shifan Zhou
-       * GitHub username 5:       name 5:
+       * GitHub username 1: Nick Fritsch      
+       name 1: kingfritsch
+       * GitHub username 2: WHITEMORPHO       
+       name 2: Kaidong Lin
+       * GitHub username 3: Luke Lsutton      
+       name 3: lsutton2
+       * GitHub username 4: shifanzhou        
+       name 4: Shifan Zhou
+ 
    * When did you complete this exercise? 
         Oct 16, 2018
     
