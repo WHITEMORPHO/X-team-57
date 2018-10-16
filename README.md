@@ -1,4 +1,4 @@
-# xteam-exercise-2: https://github.com/<UserName>/<GitHubRepositoryName>
+# xteam-exercise-2: https://github.com/WHITEMORPHO/X-team-57
 
 1. Edit the title of this document
    * Replace <UserName> with the user name of the team member who created shared repository
@@ -7,14 +7,16 @@
 
 2. Answer these questions
    * What are the GitHub usernames and names of your team members?
-       * GitHub username 1:       name 1:
-       * GitHub username 2:       name 2:
-       * GitHub username 3:       name 3:
-       * GitHub username 4:       name 4:
+       * GitHub username 1: Nick Fritsch      name 1: kingfritsch
+       * GitHub username 2: WHITEMORPHO      name 2: Kaidong Lin
+       * GitHub username 3: Luke Lsutton      name 3: lsutton2
+       * GitHub username 4: shifanzhou      name 4: Shifan Zhou
        * GitHub username 5:       name 5:
    * When did you complete this exercise? 
+        Oct 16, 2018
+    
    * How long did it take your team to complete this exercise? 
-
+       Just the readme? 10min //TODO
 ## Table of Contents
 
 1. README.md - overview of files in this repository (this file)
