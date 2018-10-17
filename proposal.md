@@ -43,12 +43,19 @@ The Ultimate Deluxe Gradebook could produce potputs shown in the following graph
 example output:
 
 ID[90XXXXXXXX]Jon Doe,   undergraduate, mid1:50, mid2:90, final:100
+
 ID[90XXXXXXX2]Don Trump, graduate, mid1:50, mid2:90, final:100
+
 ID[90XXXXXX5X]Kel smith, undergraduate, mid1:50, mid2:90, final:100
+
 ID[90XXXX3XXX]Ronald Rump , graduate, mid1:50, mid2:90, final:100
+
 ID[90XXX2XXXX]Konkey Dong, undergraduate, mid1:50, mid2:90, final:100
+
 ID[90XXXXXX7X]John Wick , graduate, mid1:50, mid2:90, final:100
+
 ID[90XXXX9XXX]Spider Pig , undergraduate, mid1:37, mid2:90, final:100
+
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
 
