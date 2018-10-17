@@ -11,7 +11,7 @@
        name 1: kingfritsch
        * GitHub username 2: WHITEMORPHO       
        name 2: Kaidong Lin
-       * GitHub username 3: Luke Lsutton      
+       * GitHub username 3: Luke Sutton      
        name 3: lsutton2
        * GitHub username 4: shifanzhou        
        name 4: Shifan Zhou
