@@ -17,10 +17,12 @@
        name 4: Shifan Zhou
  
    * When did you complete this exercise? 
+   
         Oct 16, 2018
     
    * How long did it take your team to complete this exercise? 
-       Just the readme? 10min //TODO
+   
+       one and a half hours
 ## Table of Contents
 
 1. README.md - overview of files in this repository (this file)
