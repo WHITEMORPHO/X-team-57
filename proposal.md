@@ -34,7 +34,7 @@ Our problem that we are going to solve, is our professor only has a regular grad
 Our solutiom to this problem is to create a grading book system by getting input from the user to input their name, ID number, grade and status in school. We have features on the program to Create gradebook file, Sort the file and Save the file. we will have 3 input grades from midterm1,midterm2,and final grade. we will have different weights of the different exams, and their final grade will be output.
 ## Questions to answer for Exercise #2
 
-1. Name: The Ultimate Deluxe Gradebook
+1. Name: **The Ultimate Deluxe Gradebook**
 
 
 
