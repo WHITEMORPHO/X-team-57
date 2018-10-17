@@ -1,4 +1,4 @@
-# X-Team 57 Project Proposal
+# X-Team 57 Project Proposal - The Ultimate Deluxe Gradebook
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -32,7 +32,7 @@ Our problem that we are going to solve, is our professor only has a regulor
 
 ## Questions to answer for Exercise #2
 
-1. Name: Give your project proposal a name (and edit the top line of this file)
+1. Name: The Ultimate Deluxe Gradebook
 
 
 
@@ -40,7 +40,7 @@ Our problem that we are going to solve, is our professor only has a regulor
 ![Image of Yaktocat](https://github.com/WHITEMORPHO/X-team-57/blob/master/gradebook.JPG)
 
 
-3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
+3. Input: Names (first name, last names), student ID, midterm and final grades. 
 
 
 
