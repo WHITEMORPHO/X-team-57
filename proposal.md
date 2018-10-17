@@ -28,9 +28,7 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
  Tip: Your custom data structure can be composed of or extensions of data structures that you have learned and used in previous programming assignments.  We're looking for decisions about how to build a high-level data structure that will likely have lower-level components.
 
 ## Problem Description
-Our problem that we are going to solve, is our professor only has a regular gradebook system where she has everything in a paper gradebook. They are having problems reporting and looking at the grades for each specific student. 
-
-Our solutiom to this problem is to create a grading book system by getting input from the user to input their name, ID number, grade and status in school. We have features on the program to Create gradebook file, Sort the file and Save the file. we will have 3 input grades from midterm1,midterm2,and final grade. we will have different weights of the different exams, and their final grade will be output. 
+Our problem that we are going to solve, is our professor only has a regulor 
 
 ## Questions to answer for Exercise #2
 
@@ -39,7 +37,7 @@ Our solutiom to this problem is to create a grading book system by getting input
 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
-
+![Image of Yaktocat](https://github.com/WHITEMORPHO/X-team-57/blob/master/gradebook.JPG)
 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
