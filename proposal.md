@@ -32,7 +32,7 @@ Our problem that we are going to solve, is our professor only has a regulor
 
 ## Questions to answer for Exercise #2
 
-1. Name: Give your project proposal a name (and edit the top line of this file)
+1. Name: The Ultimate Deluxe Gradebook
 
 
 
@@ -40,7 +40,7 @@ Our problem that we are going to solve, is our professor only has a regulor
 
 
 
-3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
+3. Input: Name (last name, first name), student ID, and grades for course.
 
 
 
