@@ -28,10 +28,6 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
  Tip: Your custom data structure can be composed of or extensions of data structures that you have learned and used in previous programming assignments.  We're looking for decisions about how to build a high-level data structure that will likely have lower-level components.
 
 ## Problem Description
-
-Briefly describe a problem that your team would like to solve.  
-Describe at a high level a program that could solve that problem.
-
 Our problem that we are going to solve, is our professor only has a regulor 
 
 ## Questions to answer for Exercise #2
