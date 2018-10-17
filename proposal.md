@@ -45,15 +45,18 @@ Our problem that we are going to solve, is our professor only has a regulor
 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
-
+The interface should have insert, search, printInLastNameOrder, and printInGradeOrder method
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
-
+In the gradebook class, we could create a new gradebook instance and add all student's name and insert their grade to the gradebook, and we would be able to sort the gradebook in two orders: one that sorts the gradebook in the order of Last name, the other sorts in the order of scores from highest to lowest
 
 
 Name each interface or class and briefly describe its function or purpose.
-
+Gradebook interface: create a new gradebook
+Student interface: create a new student instance
+Student class: create a new student with Frist and last name, and his/her status
+sortedGradebook class: create a new gradebook, insert students with name, scores, and status. Then sort it into different order we want
 
 ## Edit and Submit this file and any figures referenced by this document.
 
